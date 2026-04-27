@@ -12,7 +12,7 @@ hero:
       text: テキストを開く
       link: /text/chapter-1/
     - theme: alt
-      text: このテキストについて
+      text: 講習会概要
       link: /about
     - theme: alt
       text: GitHub
