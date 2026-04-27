@@ -4,7 +4,7 @@ import { generatedSidebar } from './sidebar.generated'
 export default defineConfig({
   lang: 'ja-JP',
   title: 'Unity設計講習会',
-  description: 'サークル内で開催したUnity設計講習会の資料',
+  description: 'デジタル創作同好会traP内で開催したUnity設計講習会の公開資料',
   base: '/unity-design-workshop/',
   lastUpdated: true,
   head: [
