@@ -14,9 +14,6 @@ hero:
     - theme: alt
       text: 講習会概要
       link: /about
-    - theme: alt
-      text: GitHub
-      link: https://github.com/kageki128/unity-design-workshop
 
 features:
   - title: 第1回 良いコード

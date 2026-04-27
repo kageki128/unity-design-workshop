@@ -22,8 +22,7 @@ export default defineConfig({
       { text: '講習会概要', link: '/about' },
       { text: '第1回', link: '/text/chapter-1/' },
       { text: '第2回', link: '/text/chapter-2/' },
-      { text: '第3回', link: '/text/chapter-3/' },
-      { text: 'GitHub', link: 'https://github.com/kageki128/unity-design-workshop' }
+      { text: '第3回', link: '/text/chapter-3/' }
     ],
     sidebar: generatedSidebar,
     search: {
