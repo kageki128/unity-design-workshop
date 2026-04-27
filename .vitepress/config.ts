@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { generatedSidebar } from './sidebar.generated'
 
 export default defineConfig({
   lang: 'ja-JP',
@@ -19,24 +20,12 @@ export default defineConfig({
     nav: [
       { text: 'ホーム', link: '/' },
       { text: '講習概要', link: '/about' },
+      { text: '第1回', link: '/text/chapter-1/' },
+      { text: '第2回', link: '/text/chapter-2/' },
+      { text: '第3回', link: '/text/chapter-3/' },
       { text: 'GitHub', link: 'https://github.com/kageki128/unity-design-workshop' }
     ],
-    sidebar: [
-      {
-        text: '案内',
-        items: [
-          { text: 'この講習会について', link: '/about' }
-        ]
-      },
-      {
-        text: '講習資料',
-        items: [
-          { text: '第1回 良いコード', link: '/1st' },
-          { text: '第2回 クラス設計', link: '/2nd' },
-          { text: '第3回 アーキテクチャ', link: '/3rd' }
-        ]
-      }
-    ],
+    sidebar: generatedSidebar,
     search: {
       provider: 'local'
     },
