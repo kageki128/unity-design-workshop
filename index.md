@@ -5,8 +5,8 @@ title: Unity設計講習会
 
 hero:
   name: Unity設計講習会
-  text: サークル内講習資料
-  tagline: 良いコード・クラス設計・アーキテクチャを、Unity開発の実務視点で学ぶための全3回講習。
+  text: 講習資料
+  tagline: 大規模開発にも耐える、強く美しいコードを書くためのUnity向け講習。
   actions:
     - theme: brand
       text: 第1回を読む
