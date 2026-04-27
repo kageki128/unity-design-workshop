@@ -6,7 +6,7 @@ title: Unity設計講習会
 hero:
   name: Unity設計講習会
   text: 講習会資料
-  tagline: 大規模開発にも耐える、強く美しいコードを書くためのUnity向け講習会。
+  tagline: 強く、美しいコードを書くためのUnity向け講習会。
   actions:
     - theme: brand
       text: 第1回を読む
@@ -20,12 +20,12 @@ hero:
 
 features:
   - title: 第1回 良いコード
-    details: 命名・可読性・保守性を中心に、章単位で学べるよう小分けした資料。
+    details: 命名や可読性など、設計の基礎となる「良いコード」を書く方法。
     link: /text/chapter-1/
   - title: 第2回 クラス設計
-    details: SOLID原則や依存関係の考え方を、章ごとに追える構成で解説。
+    details: SOLID原則を元にした保守性の高いクラスを設計する方法。
     link: /text/chapter-2/
   - title: 第3回 アーキテクチャ
-    details: アーキテクチャ設計を段階的に理解できる、分割済みテキスト。
+    details: 大規模開発も見据えたアーキテクチャを設計する方法。
     link: /text/chapter-3/
 ---
