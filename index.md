@@ -17,7 +17,7 @@ hero:
 
 features:
   - title: 第1回 良いコード
-    details: 命名や可読性など、設計の基礎となる「良いコード」を書く方法。
+    details: 命名やバグの原因となるコードなど、設計の基礎となる「良いコード」を書く方法。
     link: /text/chapter-1/
   - title: 第2回 クラス設計
     details: SOLID原則を元にした保守性の高いクラスを設計する方法。
