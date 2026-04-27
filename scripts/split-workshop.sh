@@ -71,7 +71,7 @@ items3="$(gen_sidebar_items_from_files 3)"
 cat > .vitepress/sidebar.generated.ts <<CONFIG
 export const generatedSidebar = [
   {
-    text: '案内',
+    text: '概要',
     items: [
       { text: 'この講習会について', link: '/about' }
     ]

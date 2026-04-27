@@ -1,6 +1,6 @@
 export const generatedSidebar = [
   {
-    text: '案内',
+    text: '概要',
     items: [
       { text: 'この講習会について', link: '/about' }
     ]

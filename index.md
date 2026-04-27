@@ -5,14 +5,14 @@ title: Unity設計講習会
 
 hero:
   name: Unity設計講習会
-  text: 講習資料
+  text: 講習会資料
   tagline: 大規模開発にも耐える、強く美しいコードを書くためのUnity向け講習会。
   actions:
     - theme: brand
       text: 第1回を読む
       link: /text/chapter-1/
     - theme: alt
-      text: 講習概要
+      text: 講習会概要
       link: /about
     - theme: alt
       text: GitHub
