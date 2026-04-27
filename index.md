@@ -9,10 +9,10 @@ hero:
   tagline: 強く、美しいコードを書くためのUnity向け講習会。
   actions:
     - theme: brand
-      text: 第1回を読む
+      text: テキストを開く
       link: /text/chapter-1/
     - theme: alt
-      text: 講習会概要
+      text: このテキストについて
       link: /about
     - theme: alt
       text: GitHub
