@@ -19,7 +19,7 @@ export default defineConfig({
     siteTitle: 'Unity設計講習会',
     nav: [
       { text: 'ホーム', link: '/' },
-      { text: '講習概要', link: '/about' },
+      { text: '講習会概要', link: '/about' },
       { text: '第1回', link: '/text/chapter-1/' },
       { text: '第2回', link: '/text/chapter-2/' },
       { text: '第3回', link: '/text/chapter-3/' },

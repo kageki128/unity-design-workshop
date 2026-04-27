@@ -38,7 +38,7 @@ split_markdown() {
       idx=outdir "/index.md"
       print "# " title > idx
       print "" >> idx
-      print "このページは講習資料を章ごとに分割した目次です。" >> idx
+      print "このページは講習会資料を章ごとに分割した目次です。" >> idx
       print "" >> idx
       print "## セクション一覧" >> idx
       print "" >> idx
