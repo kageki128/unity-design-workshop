@@ -1,6 +1,6 @@
 # Unity設計講習会
 
-サークル内で開催した Unity 設計講習会の公開資料です。
+[デジタル創作同好会traP](https://trap.jp/)内で開催したUnity設計講習会の公開資料です。
 
 ## 公開ページ
 
@@ -11,14 +11,3 @@
 - [第1回 良いコード](./1st.md)
 - [第2回 クラス設計](./2nd.md)
 - [第3回 アーキテクチャ](./3rd.md)
-
-## ローカルで確認する
-
-```bash
-npm install
-npm run docs:dev
-```
-
-## デプロイ
-
-`main` ブランチへ push すると GitHub Actions でビルドされ、GitHub Pages にデプロイされます。
